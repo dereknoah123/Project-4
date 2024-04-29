@@ -13,7 +13,7 @@ I like to code and it makes me happy.
 
   | Number | Item | Description |
   |:----: |:-----:| -----------|
-  | Week Sixteen | Input, Processing, Output, | This week we went over implementing multiple classes, inheritance, and a different data structure|
+  | Week Sixteen | Input, Processing, Output, | This week we went over implementing multiple classes, inheritance, and a different data structure.|
   
   <h3 align="left"> Lanaguage and Tools: </h3>
     <a href= "https://github.com/devicon/blob/master/icons/intellij-original-wordmark.svg" target="blank" rel ="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicon/blob/master/icons/intellij-original-wordmark.svg" alt ="intelliJ" width ="40" height="40"/></a>
