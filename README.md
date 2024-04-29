@@ -17,7 +17,6 @@ I like to code and it makes me happy.
   | Week Two | x,y,z | Hello World|
   
   <h3 align="left"> Lanaguage and Tools: </h3>
-  <p> align = "left" </p>
     <a href= "https://github.com/devicon/blob/master/icons/intellij-original-wordmark.svg" target="blank" rel ="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicon/blob/master/icons/intellij-original-wordmark.svg" alt ="intelliJ" width ="40" height="40"/></a>
   </p>  
   
