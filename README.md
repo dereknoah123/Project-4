@@ -1,6 +1,17 @@
 #First Coding Portfolio
-<h1 allign="center"> Hi 👋 , I'm Derek Noah </h1>
-<h3 allign="center"> A passionate cybersecurity student 👍 </h3>
+<h1 align="center"> Hi 👋 , I'm Derek Noah </h1>
+<h3 align="center"> A passionate cybersecurity student 👍 </h3>
 
 - 🦾 I am currently working on [Project 4 Package](https://github.com/dereknoah123/Project-4.git)
 - 📖 [I am looking for a book](https://github.com/dereknoah123/Project-4/blob/ad3edde73a0fb12fb3ee893377421f8573ade659/src/Book.java)
+
+  <h3 align = "left"> Connect with me</h3>
+  <p align = "left">
+Contact me if you want to contribute to my open source code.
+I like to code and it makes me happy.
+  </p>
+
+  | Number | Item | Description |
+  |:----: |:-----:| -----------|
+  | Week One | DialogBox, Name, Numbers, | This week we went over comparing names, numbers in java|
+  | Week Two | x,y,z | Hello World|
